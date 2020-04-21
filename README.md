@@ -110,6 +110,11 @@ case 2重复了1中的大多数问题，而在案例3也没提供多少新信息
 
 最终的编号系统和其中的案例备忘是本文理论的一个抽象表达，而我们最终由归纳法得到描述性的理论，他们适用于原案例的情况，但不一定普遍适用。
 
+![表2 分析力度、相关数据及调查方法](https://raw.githubusercontent.com/sidazhang123/InnerSourceInPlatformBasedProductEngineering/master/table2.png)
+
+
+![表3 访谈和资料相关信息 ](https://raw.githubusercontent.com/sidazhang123/InnerSourceInPlatformBasedProductEngineering/master/table3.png)
+
 **3.5 质量保证**
 
 这项工作是基于实验进行的，因此得出的理论有着较高的可信度。通常来讲，通过遵循一定的方法论可以保持理论的质量。我们让另一人构建了另一套编号系统，而这个独立开发的系统显示出与原始系统较高的一致性。 为了进行评估，我们一起仔细检查了两套系统，发现几乎没有矛盾之处，这显示出我们结论的可靠性和严谨性。我们所用的大量论据符合数据三角验证法(data triangulation)，这增加了我们理论的自洽性。
