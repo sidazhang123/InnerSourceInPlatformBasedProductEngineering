@@ -87,7 +87,7 @@ Stol等人描述过一个正在发展软件产品线的未注名公司，他们�
 * 提供可复用资产、支持平台运行的部门是成本中心，其成本由产品单位共同cover。 成本中心是一个单位中支持其它部门的单位，且公司不期望其直接提供盈利。
 因此，我们在分析中分别出了三种主要的不同组织：整体业务部门，独立产品部门和平台部门。
 
-
+![表1.案例中产品和所属公司的主要属性](https://raw.githubusercontent.com/sidazhang123/InnerSourceInPlatformBasedProductEngineering/master/table1.png)
 
 **3.3数据的收集**
 
