@@ -155,7 +155,7 @@ case 2重复了1中的大多数问题，而在案例3也没提供多少新信息
 
 ![图 2. 案例中公司在流程和产物上的问题](https://raw.githubusercontent.com/sidazhang123/InnerSourceInPlatformBasedProductEngineering/master/fig2.png)
 
-**4.2.1 因果关系1：资源不足**
+**4.2.1 关系链1：资源不足**
 
 在三个案例中，尽管产品部门在交付产品方面有着更直接的压力，但平台部门的工作量却比任何产品部门都要高得多。
 
