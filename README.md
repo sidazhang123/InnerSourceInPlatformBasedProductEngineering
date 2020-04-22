@@ -150,4 +150,8 @@ case 2重复了1中的大多数问题，而在案例3也没提供多少新信息
 
 因为这些因果关系链在访谈中最多被提及，所以我们选择这些因果关系来阐述。
 
+![图 1. 案例中公司在组织结构上的问题](https://raw.githubusercontent.com/sidazhang123/InnerSourceInPlatformBasedProductEngineering/master/fig1.png)
+
+![图 2. 案例中公司在流程和产物上的问题](https://raw.githubusercontent.com/sidazhang123/InnerSourceInPlatformBasedProductEngineering/master/fig2.png)
+
 **4.2.1 因果关系1：资源不足**
